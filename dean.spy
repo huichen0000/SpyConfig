@@ -4,7 +4,7 @@ js_config:
   Env: VENDER_ID
   KeyWord:
   - - VENDER_ID
-  Name: 入会开卡领取礼包
+  Name: 【Faker】入会开卡领取礼包
   Script: jd_OpenCard.js
   TimeOut: 0
   Wait: 2
@@ -14,7 +14,7 @@ js_config:
   KeyWord:
   - - jd_completeInfoActivity_activityUrl
   - - jd_completeInfoActivity_joinMember
-  Name: 完善信息有礼（超级会员）
+  Name: 【Faker】完善信息有礼（超级会员）
   Script: jd_completeInfoActivity.js
   TimeOut: 0
   Wait: 2
@@ -24,7 +24,7 @@ js_config:
   KeyWord:
   - - jd_daily_activityUrl
   - - jd_daily_joinMember
-  Name: 每日抢好礼（超级无线/超级会员）
+  Name: 【Faker】每日抢好礼（超级无线/超级会员）
   Script: jd_daily.js
   TimeOut: 0
   Wait: 2
@@ -33,7 +33,7 @@ js_config:
   Env: jd_dplh_viewShop_ids
   KeyWord:
   - - jd_dplh_viewShop_ids
-  Name: 大牌联合浏览豆专用
+  Name: 【Faker】大牌联合浏览豆专用
   Script: jd_dplh_viewShop.js
   TimeOut: 0
   Wait: 2
@@ -42,7 +42,7 @@ js_config:
   Env: jd_dpqd_tokens
   KeyWord:
   - - jd_dpqd_tokens
-  Name: 批量店铺签到（活动查询）
+  Name: 【Faker】批量店铺签到（活动查询）
   Script: jd_dpqd_main.js
   TimeOut: 0
   Wait: 2
@@ -51,7 +51,7 @@ js_config:
   Env: jd_dpqd_monitor_token
   KeyWord:
   - - jd_dpqd_monitor_token
-  Name: 常规店铺签到监控
+  Name: 【Faker】常规店铺签到监控
   Script: jd_dpqd_monitor.js
   TimeOut: 0
   Wait: 2
@@ -60,7 +60,7 @@ js_config:
   Env: jd_dpqd_tokens
   KeyWord:
   - - jd_dpqd_tokens
-  Name: 批量店铺签到
+  Name: 【Faker】批量店铺签到
   Script: jd_dpqd_sign.js
   TimeOut: 0
   Wait: 2
@@ -69,7 +69,7 @@ js_config:
   Env: jd_dpqd_single_token
   KeyWord:
   - - jd_dpqd_single_token
-  Name: 常规店铺签到监控
+  Name: 【Faker】常规店铺签到监控
   Script: jd_dpqd_single.js
   TimeOut: 0
   Wait: 2
@@ -78,7 +78,7 @@ js_config:
   Env: jd_drawCenter_activityId
   KeyWord:
   - - jd_drawCenter_activityId
-  Name: 店铺抽奖中心（超级无线）
+  Name: 【Faker】店铺抽奖中心（超级无线）
   Script: jd_drawCenter.js
   TimeOut: 0
   Wait: 2
@@ -89,7 +89,7 @@ js_config:
   - - jd_drawShopGift_argv
   - - jd_drawShopGift_threads
   - - jd_drawShopGift_interval
-  Name: 店铺关注有礼
+  Name: 【Faker】店铺关注有礼
   Script: jd_drawShopGift.js
   TimeOut: 0
   Wait: 2
@@ -98,7 +98,7 @@ js_config:
   Env: jd_fansDraw_activityUrl
   KeyWord:
   - - jd_fansDraw_activityUrl
-  Name: 粉丝福利红包
+  Name: 【Faker】粉丝福利红包
   Script: jd_fansDraw.js
   TimeOut: 0
   Wait: 2
@@ -107,7 +107,7 @@ js_config:
   Env: jd_fans_videofangrowth
   KeyWord:
   - - jd_fans_videofangrowth
-  Name: 粉丝福利videofangrowth
+  Name: 【Faker】粉丝福利videofangrowth
   Script: jd_fans_videofangrowth.js
   TimeOut: 0
   Wait: 2
@@ -116,7 +116,7 @@ js_config:
   Env: M_FOLLOW_SHOP_ARGV
   KeyWord:
   - - M_FOLLOW_SHOP_ARGV
-  Name: 关注有礼-加密
+  Name: 【Faker】关注有礼-加密
   Script: jd_follow.js
   TimeOut: 0
   Wait: 2
@@ -125,7 +125,7 @@ js_config:
   Env: jd_gzsl_contactWare_activityUrl
   KeyWord:
   - - jd_gzsl_contactWare_activityUrl
-  Name: 关注有礼（无线营销）
+  Name: 【Faker】关注有礼（无线营销）
   Script: jd_gzsl_contactWare.js
   TimeOut: 0
   Wait: 2
@@ -134,7 +134,7 @@ js_config:
   Env: jd_gzsl_getLottery_activityUrl
   KeyWord:
   - - jd_gzsl_getLottery_activityUrl
-  Name: 幸运大转盘（无线营销）
+  Name: 【Faker】幸运大转盘（无线营销）
   Script: jd_gzsl_getLottery.js
   TimeOut: 0
   Wait: 2
@@ -143,7 +143,7 @@ js_config:
   Env: jd_gzsl_shopGiftBag_activityUrl
   KeyWord:
   - - jd_gzsl_shopGiftBag_activityUrl
-  Name: 店铺礼包（无线营销）
+  Name: 【Faker】店铺礼包（无线营销）
   Script: jd_gzsl_shopGiftBag.js
   TimeOut: 0
   Wait: 2
@@ -152,7 +152,7 @@ js_config:
   Env: jd_jinggeng_exchangeActDetail_url
   KeyWord:
   - - jd_jinggeng_exchangeActDetail_url
-  Name: 积分兑换（京耕）
+  Name: 【Faker】积分兑换（京耕）
   Script: jd_jinggeng_exchangeActDetail.js
   TimeOut: 0
   Wait: 2
@@ -161,7 +161,7 @@ js_config:
   Env: jd_jinggeng_floor_activityUrl
   KeyWord:
   - - jd_jinggeng_floor_activityUrl
-  Name: 盖楼有礼（京耕）
+  Name: 【Faker】盖楼有礼（京耕）
   Script: jd_jinggeng_floor.js
   TimeOut: 0
   Wait: 2
@@ -170,7 +170,7 @@ js_config:
   Env: jd_jinggeng_loadBlindBox_activityUrl
   KeyWord:
   - - jd_jinggeng_loadBlindBox_activityUrl
-  Name: 惊喜开盲盒（京耕）
+  Name: 【Faker】惊喜开盲盒（京耕）
   Script: jd_jinggeng_loadBlindBox.js
   TimeOut: 0
   Wait: 2
@@ -179,7 +179,7 @@ js_config:
   Env: jd_jinggeng_showCart_activityUrl
   KeyWord:
   - - jd_jinggeng_showCart_activityUrl
-  Name: 加购有礼（京耕）
+  Name: 【Faker】加购有礼（京耕）
   Script: jd_jinggeng_showCart.js
   TimeOut: 0
   Wait: 2
@@ -188,7 +188,7 @@ js_config:
   Env: jd_jinggeng_showDrawOne_activityUrl
   KeyWord:
   - - jd_jinggeng_showDrawOne_activityUrl
-  Name: 积分抽奖（京耕）
+  Name: 【Faker】积分抽奖（京耕）
   Script: jd_jinggeng_showDrawOne.js
   TimeOut: 0
   Wait: 2
@@ -197,7 +197,7 @@ js_config:
   Env: jd_jinggeng_showFavoriteShop_activityUrl
   KeyWord:
   - - jd_jinggeng_showFavoriteShop_activityUrl
-  Name: 关注店铺有礼（京耕）
+  Name: 【Faker】关注店铺有礼（京耕）
   Script: jd_jinggeng_showFavoriteShop.js
   TimeOut: 0
   Wait: 2
@@ -206,7 +206,7 @@ js_config:
   Env: jd_jinggeng_showInviteJoin_activityUrl
   KeyWord:
   - - jd_jinggeng_showInviteJoin_activityUrl
-  Name: 邀请入会赢好礼（京耕）
+  Name: 【Faker】邀请入会赢好礼（京耕）
   Script: jd_jinggeng_showInviteJoin.js
   TimeOut: 0
   Wait: 2
@@ -215,7 +215,7 @@ js_config:
   Env: jd_jinggeng_showPartition_activityUrl
   KeyWord:
   - - jd_jinggeng_showPartition_activityUrl
-  Name: 组队瓜分奖品（京耕）
+  Name: 【Faker】组队瓜分奖品（京耕）
   Script: jd_jinggeng_showPartition.js
   TimeOut: 0
   Wait: 2
@@ -224,7 +224,7 @@ js_config:
   Env: jd_jinggeng_showPerfectInformation_activityUrl
   KeyWord:
   - - jd_jinggeng_showPerfectInformation_activityUrl
-  Name: 完善有礼（京耕）
+  Name: 【Faker】完善有礼（京耕）
   Script: jd_jinggeng_showPerfectInformation.js
   TimeOut: 0
   Wait: 2
@@ -233,7 +233,7 @@ js_config:
   Env: jd_jinggeng_showSign_activityUrl
   KeyWord:
   - - jd_jinggeng_showSign_activityUrl
-  Name: 签到有礼（京耕）
+  Name: 【Faker】签到有礼（京耕）
   Script: jd_jinggeng_showSign.js
   TimeOut: 0
   Wait: 2
@@ -242,7 +242,7 @@ js_config:
   Env: jd_jinggeng_showTaskDraw_activityUrl
   KeyWord:
   - - jd_jinggeng_showTaskDraw_activityUrl
-  Name: 幸运抽奖（京耕）
+  Name: 【Faker】幸运抽奖（京耕）
   Script: jd_jinggeng_showTaskDraw.js
   TimeOut: 0
   Wait: 2
@@ -251,7 +251,7 @@ js_config:
   Env: jd_liveLottery_ids
   KeyWord:
   - - jd_liveLottery_ids
-  Name: 直播互动抽奖
+  Name: 【Faker】直播互动抽奖
   Script: jd_liveLottery.js
   TimeOut: 0
   Wait: 2
@@ -260,7 +260,7 @@ js_config:
   Env: JD_Lottery
   KeyWord:
   - - JD_Lottery
-  Name: joy抽奖机通用
+  Name: 【Faker】joy抽奖机通用
   Script: jd_lotterys.js
   TimeOut: 0
   Wait: 2
@@ -269,7 +269,7 @@ js_config:
   Env: JD_CART
   KeyWord:
   - - JD_CART
-  Name: LZ加购有礼通用活动
+  Name: 【Faker】LZ加购有礼通用活动
   Script: jd_lzaddCart.js
   TimeOut: 0
   Wait: 2
@@ -278,7 +278,7 @@ js_config:
   Env: jd_lzkj_cart_url
   KeyWord:
   - - jd_lzkj_cart_url
-  Name: 加购有礼（超级无线）
+  Name: 【Faker】加购有礼（超级无线）
   Script: jd_lzkj_cart.js
   TimeOut: 0
   Wait: 2
@@ -287,7 +287,7 @@ js_config:
   Env: jd_lzkj_dailyGrabs_url
   KeyWord:
   - - jd_lzkj_dailyGrabs_url
-  Name: 每日抢好礼（超级无线）
+  Name: 【Faker】每日抢好礼（超级无线）
   Script: jd_lzkj_dailyGrabs.js
   TimeOut: 0
   Wait: 2
@@ -296,7 +296,7 @@ js_config:
   Env: jd_lzkj_daySign_url
   KeyWord:
   - - jd_lzkj_daySign_url
-  Name: 签到有礼（超级无线）
+  Name: 【Faker】签到有礼（超级无线）
   Script: jd_lzkj_daySign.js
   TimeOut: 0
   Wait: 2
@@ -305,7 +305,7 @@ js_config:
   Env: jd_lzkj_draw_url
   KeyWord:
   - - jd_lzkj_draw_url
-  Name: 幸运抽奖（超级无线）
+  Name: 【Faker】幸运抽奖（超级无线）
   Script: jd_lzkj_draw.js
   TimeOut: 0
   Wait: 2
@@ -314,7 +314,7 @@ js_config:
   Env: jd_lzkj_followGoods_url
   KeyWord:
   - - jd_lzkj_followGoods_url
-  Name: 关注商品有礼（超级无线）
+  Name: 【Faker】关注商品有礼（超级无线）
   Script: jd_lzkj_followGoods.js
   TimeOut: 0
   Wait: 2
@@ -323,7 +323,7 @@ js_config:
   Env: jd_lzkj_inviteFollowShop_url
   KeyWord:
   - - jd_lzkj_inviteFollowShop_url
-  Name: 邀请关注店铺有礼（超级无线）
+  Name: 【Faker】邀请关注店铺有礼（超级无线）
   Script: jd_lzkj_inviteFollowShop.js
   TimeOut: 0
   Wait: 2
@@ -332,7 +332,7 @@ js_config:
   Env: jd_lzkj_know_url
   KeyWord:
   - - jd_lzkj_know_url
-  Name: 知识超人（超级无线）
+  Name: 【Faker】知识超人（超级无线）
   Script: jd_lzkj_know.js
   TimeOut: 0
   Wait: 2
@@ -341,7 +341,7 @@ js_config:
   Env: jd_lzkj_lkFollowShop_url
   KeyWord:
   - - jd_lzkj_lkFollowShop_url
-  Name: 关注店铺有礼（超级无线）
+  Name: 【Faker】关注店铺有礼（超级无线）
   Script: jd_lzkj_lkFollowShop.js
   TimeOut: 0
   Wait: 2
@@ -350,7 +350,7 @@ js_config:
   Env: jd_lzkj_loreal_invite_url
   KeyWord:
   - - jd_lzkj_loreal_invite_url
-  Name: 邀请入会有礼（超级无线）
+  Name: 【Faker】邀请入会有礼（超级无线）
   Script: jd_lzkj_loreal_invite.js
   TimeOut: 0
   Wait: 2
@@ -359,7 +359,7 @@ js_config:
   Env: jd_lzkj_loreal_share_url
   KeyWord:
   - - jd_lzkj_loreal_share_url
-  Name: 分享有礼（超级无线）
+  Name: 【Faker】分享有礼（超级无线）
   Script: jd_lzkj_loreal_share.js
   TimeOut: 0
   Wait: 2
@@ -368,7 +368,7 @@ js_config:
   Env: jd_lzkj_loreal_sign_url
   KeyWord:
   - - jd_lzkj_loreal_sign_url
-  Name: 签到抽奖（超级无线）
+  Name: 【Faker】签到抽奖（超级无线）
   Script: jd_lzkj_loreal_sign.js
   TimeOut: 0
   Wait: 2
@@ -377,7 +377,7 @@ js_config:
   Env: jd_lzkj_organizeTeam_url
   KeyWord:
   - - jd_lzkj_organizeTeam_url
-  Name: 组队瓜分奖品（超级无线）
+  Name: 【Faker】组队瓜分奖品（超级无线）
   Script: jd_lzkj_organizeTeam.js
   TimeOut: 0
   Wait: 2
@@ -386,7 +386,7 @@ js_config:
   Env: jd_lzkj_perfectInfo_url
   KeyWord:
   - - jd_lzkj_perfectInfo_url
-  Name: 完善有礼（超级无线）
+  Name: 【Faker】完善有礼（超级无线）
   Script: jd_lzkj_perfectInfo.js
   TimeOut: 0
   Wait: 2
@@ -395,7 +395,7 @@ js_config:
   Env: jd_lzkj_pointsExchange_url
   KeyWord:
   - - jd_lzkj_pointsExchange_url
-  Name: 积分兑换（超级无线）
+  Name: 【Faker】积分兑换（超级无线）
   Script: jd_lzkj_pointsExchange.js
   TimeOut: 0
   Wait: 2
@@ -404,7 +404,7 @@ js_config:
   Env: jd_lzkj_shopGift_url
   KeyWord:
   - - jd_lzkj_shopGift_url
-  Name: 店铺礼包（超级无线）
+  Name: 【Faker】店铺礼包（超级无线）
   Script: jd_lzkj_shopGift.js
   TimeOut: 0
   Wait: 2
@@ -413,7 +413,7 @@ js_config:
   Env: jd_lzkj_v2_birthday_url
   KeyWord:
   - - jd_lzkj_v2_birthday_url
-  Name: 生日礼包（超级无线V2）
+  Name: 【Faker】生日礼包（超级无线V2）
   Script: jd_lzkj_v2_birthday.js
   TimeOut: 0
   Wait: 2
@@ -422,7 +422,7 @@ js_config:
   Env: jd_lzkj_v2_draw_url
   KeyWord:
   - - jd_lzkj_v2_draw_url
-  Name: 幸运抽奖（超级无线V2）
+  Name: 【Faker】幸运抽奖（超级无线V2）
   Script: jd_lzkj_v2_draw.js
   TimeOut: 0
   Wait: 2
@@ -431,7 +431,7 @@ js_config:
   Env: jd_lzkj_v2_perfectInfo_url
   KeyWord:
   - - jd_lzkj_v2_perfectInfo_url
-  Name: 完善有礼（超级无线V2）
+  Name: 【Faker】完善有礼（超级无线V2）
   Script: jd_lzkj_v2_perfectInfo.js
   TimeOut: 0
   Wait: 2
@@ -440,7 +440,7 @@ js_config:
   Env: jd_lzkj_v2_sign_url
   KeyWord:
   - - jd_lzkj_v2_sign_url
-  Name: 签到有礼（超级无线V2）
+  Name: 【Faker】签到有礼（超级无线V2）
   Script: jd_lzkj_v2_sign.js
   TimeOut: 0
   Wait: 2
@@ -449,7 +449,7 @@ js_config:
   Env: jd_pointExgHb_activityUrl
   KeyWord:
   - - jd_pointExgHb_activityUrl
-  Name: 积分兑换红包（超级会员）
+  Name: 【Faker】积分兑换红包（超级会员）
   Script: jd_pointExgHb.js
   TimeOut: 0
   Wait: 2
@@ -458,7 +458,7 @@ js_config:
   Env: jd_pointExgShiWu_activityUrl
   KeyWord:
   - - jd_pointExgShiWu_activityUrl
-  Name: 积分兑换实物（超级会员）
+  Name: 【Faker】积分兑换实物（超级会员）
   Script: jd_pointExgShiWu.js
   TimeOut: 0
   Wait: 2
@@ -467,7 +467,7 @@ js_config:
   Env: jd_pro_lottery_id
   KeyWord:
   - - jd_pro_lottery_id
-  Name: PRO抽奖机抽奖
+  Name: 【Faker】PRO抽奖机抽奖
   Script: jd_pro_lottery.js
   TimeOut: 0
   Wait: 2
@@ -476,7 +476,7 @@ js_config:
   Env: jd_pro_lottery_task_id
   KeyWord:
   - - jd_pro_lottery_task_id
-  Name: PRO抽奖机任务
+  Name: 【Faker】PRO抽奖机任务
   Script: jd_pro_lottery_task.js
   TimeOut: 0
   Wait: 2
@@ -485,7 +485,7 @@ js_config:
   Env: jd_prodev_actCode
   KeyWord:
   - - jd_prodev_actCode
-  Name: 邀请好友入会得好礼
+  Name: 【Faker】邀请好友入会得好礼
   Script: jd_prodev.js
   TimeOut: 0
   Wait: 2
@@ -497,7 +497,7 @@ js_config:
   - - LZKJ_SIGN
   - - CJHY_SEVENDAY
   - - CJHY_SIGN
-  Name: 超级无线店铺签到
+  Name: 【Faker】超级无线店铺签到
   Script: jd_sevenDay.js
   TimeOut: 0
   Wait: 2
@@ -506,7 +506,7 @@ js_config:
   Env: jd_fxyl_activityId
   KeyWord:
   - - jd_fxyl_activityId
-  Name: lz分享有礼
+  Name: 【Faker】lz分享有礼
   Script: jd_share2.js
   TimeOut: 0
   Wait: 2
@@ -515,7 +515,7 @@ js_config:
   Env: jd_shopDraw_venderId
   KeyWord:
   - - jd_shopDraw_venderId
-  Name: 店铺左侧刮刮乐
+  Name: 【Faker】店铺左侧刮刮乐
   Script: jd_shopDraw.js
   TimeOut: 0
   Wait: 2
@@ -525,7 +525,7 @@ js_config:
   KeyWord:
   - - jd_shopSign_activityUrl
   - - jd_shopSign_joinMember
-  Name: 无线店铺签到（超级无线/超级会员）
+  Name: 【Faker】无线店铺签到（超级无线/超级会员）
   Script: jd_shopSign.js
   TimeOut: 0
   Wait: 2
@@ -536,7 +536,7 @@ js_config:
   - - jd_shopLottery_venderIds
   - - jd_shopLottery_threads
   - - jd_shopLottery_interval
-  Name: 店铺刮刮乐（刮一刮）
+  Name: 【Faker】店铺刮刮乐（刮一刮）
   Script: jd_shop_lottery.js
   TimeOut: 0
   Wait: 2
@@ -545,7 +545,7 @@ js_config:
   Env: jd_cart_item_activityUrl
   KeyWord:
   - - jd_cart_item_activityUrl
-  Name: 加购有礼（收藏大师）
+  Name: 【Faker】加购有礼（收藏大师）
   Script: jd_txzj_cart_item.js
   TimeOut: 0
   Wait: 2
@@ -554,7 +554,7 @@ js_config:
   Env: jd_collect_item_activityUrl
   KeyWord:
   - - jd_collect_item_activityUrl
-  Name: 关注商品有礼（收藏大师）
+  Name: 【Faker】关注商品有礼（收藏大师）
   Script: jd_txzj_collect_item.js
   TimeOut: 0
   Wait: 2
@@ -563,7 +563,7 @@ js_config:
   Env: jd_collect_shop_activityUrl
   KeyWord:
   - - jd_collect_shop_activityUrl
-  Name: 关注店铺有礼（收藏大师）
+  Name: 【Faker】关注店铺有礼（收藏大师）
   Script: jd_txzj_collect_shop.js
   TimeOut: 0
   Wait: 2
@@ -572,7 +572,7 @@ js_config:
   Env: jd_lottery_activityUrl
   KeyWord:
   - - jd_lottery_activityUrl
-  Name: 幸运抽奖（收藏大师）
+  Name: 【Faker】幸运抽奖（收藏大师）
   Script: jd_txzj_lottery.js
   TimeOut: 0
   Wait: 2
@@ -581,7 +581,7 @@ js_config:
   Env: jd_share_new_activityUrl
   KeyWord:
   - - jd_share_new_activityUrl
-  Name: 分享有礼（收藏大师）
+  Name: 【Faker】分享有礼（收藏大师）
   Script: jd_txzj_share_new.js
   TimeOut: 0
   Wait: 2
@@ -590,7 +590,7 @@ js_config:
   Env: jd_shop_gift_activityUrl
   KeyWord:
   - - jd_shop_gift_activityUrl
-  Name: 店铺礼包（收藏大师）
+  Name: 【Faker】店铺礼包（收藏大师）
   Script: jd_txzj_shop_gift.js
   TimeOut: 0
   Wait: 2
@@ -599,7 +599,7 @@ js_config:
   Env: jd_sign_in_activityUrl
   KeyWord:
   - - jd_sign_in_activityUrl
-  Name: 签到有礼（收藏大师）
+  Name: 【Faker】签到有礼（收藏大师）
   Script: jd_txzj_sign_in.js
   TimeOut: 0
   Wait: 2
@@ -609,7 +609,7 @@ js_config:
   KeyWord:
   - - jd_wdzfd_activityId
   - - jd_wdzfd_activityUrl
-  Name: 微定制瓜分福袋-加密
+  Name: 【Faker】微定制瓜分福袋-加密
   Script: jd_wdzfd.js
   TimeOut: 0
   Wait: 2
@@ -618,7 +618,7 @@ js_config:
   Env: jd_wxBuildActivity_activityId
   KeyWord:
   - - jd_wxBuildActivity_activityId
-  Name: 盖楼有礼（超级无线）
+  Name: 【Faker】盖楼有礼（超级无线）
   Script: jd_wxBuildActivity.js
   TimeOut: 0
   Wait: 2
@@ -627,7 +627,7 @@ js_config:
   Env: jd_wxCartKoi_activityId
   KeyWord:
   - - jd_wxCartKoi_activityId
-  Name: 购物车锦鲤（超级无线）
+  Name: 【Faker】购物车锦鲤（超级无线）
   Script: jd_wxCartKoi.js
   TimeOut: 0
   Wait: 2
@@ -636,7 +636,7 @@ js_config:
   Env: jd_wxCollectCard_activityId
   KeyWord:
   - - jd_wxCollectCard_activityId
-  Name: 集卡有礼（超级无线）
+  Name: 【Faker】集卡有礼（超级无线）
   Script: jd_wxCollectCard.js
   TimeOut: 0
   Wait: 2
@@ -645,7 +645,7 @@ js_config:
   Env: jd_wxCollectionActivity_activityUrl
   KeyWord:
   - - jd_wxCollectionActivity_activityUrl
-  Name: 加购有礼（超级无线/超级会员）
+  Name: 【Faker】加购有礼（超级无线/超级会员）
   Script: jd_wxCollectionActivity.js
   TimeOut: 0
   Wait: 2
@@ -654,7 +654,7 @@ js_config:
   Env: jd_wxCollectionActivity2
   KeyWord:
   - - jd_wxCollectionActivity2
-  Name: 加购物车抽奖
+  Name: 【Faker】加购物车抽奖
   Script: jd_wxCollectionActivity2.js
   TimeOut: 0
   Wait: 2
@@ -663,7 +663,7 @@ js_config:
   Env: jd_wxFansInterActionActivity_activityId
   KeyWord:
   - - jd_wxFansInterActionActivity_activityId
-  Name: 粉丝互动（超级无线）
+  Name: 【Faker】粉丝互动（超级无线）
   Script: jd_wxFansInterActionActivity.js
   TimeOut: 0
   Wait: 2
@@ -672,7 +672,7 @@ js_config:
   Env: jd_wxGameActivity_activityUrl
   KeyWord:
   - - jd_wxGameActivity_activityUrl
-  Name: 游戏赢大礼（超级无线/超级会员）
+  Name: 【Faker】游戏赢大礼（超级无线/超级会员）
   Script: jd_wxGameActivity.js
   TimeOut: 0
   Wait: 2
@@ -681,7 +681,7 @@ js_config:
   Env: jd_wxMcLevelAndBirthGifts_activityId
   KeyWord:
   - - jd_wxMcLevelAndBirthGifts_activityId
-  Name: 生日礼包/会员等级礼包（超级会员）
+  Name: 【Faker】生日礼包/会员等级礼包（超级会员）
   Script: jd_wxMcLevelAndBirthGifts.js
   TimeOut: 0
   Wait: 2
@@ -690,7 +690,7 @@ js_config:
   Env: jd_wxSecond_activityId
   KeyWord:
   - - jd_wxSecond_activityId
-  Name: 读秒拼手速（超级无线）
+  Name: 【Faker】读秒拼手速（超级无线）
   Script: jd_wxSecond.js
   TimeOut: 0
   Wait: 2
@@ -699,7 +699,7 @@ js_config:
   Env: jd_wxShareActivity_activityId
   KeyWord:
   - - jd_wxShareActivity_activityId
-  Name: 分享有礼（超级无线）
+  Name: 【Faker】分享有礼（超级无线）
   Script: jd_wxShareActivity.js
   TimeOut: 0
   Wait: 2
@@ -709,7 +709,7 @@ js_config:
   KeyWord:
   - - jd_wxShopFollowActivity_url
   - - jd_wxShopFollowActivity_forbiddenQuit
-  Name: 关注店铺有礼（超级无线/超级会员）
+  Name: 【Faker】关注店铺有礼（超级无线/超级会员）
   Script: jd_wxShopFollowActivity.js
   TimeOut: 0
   Wait: 2
@@ -718,7 +718,7 @@ js_config:
   Env: jd_wxShopGift_url
   KeyWord:
   - - jd_wxShopGift_url
-  Name: 店铺礼包（超级无线/超级会员）
+  Name: 【Faker】店铺礼包（超级无线/超级会员）
   Script: jd_wxShopGift.js
   TimeOut: 0
   Wait: 2
@@ -731,13 +731,7 @@ js_config:
   - - jd_wxSign_sign_cjhy_Ids
   - - jd_wxSign_signNew_cjhy_Ids
   - - jd_wxSign_sevenDay_cjhy_Ids
-  - - jd_wxSign_lzkjInterval
-  - - jd_wxSign_cjhyInterval
-  - - jd_wxSign_lzkjFilter
-  - - jd_wxSign_cjhyFilter
-  - - jd_wxSign_maxRetry
-  - - jd_wxSign_forbiddenQuit
-  Name: 批量店铺签到（超级无线/超级会员）
+  Name: 【Faker】批量店铺签到（超级无线/超级会员）
   Script: jd_wxSign.js
   TimeOut: 0
   Wait: 2
@@ -746,7 +740,7 @@ js_config:
   Env: jd_wxTeam_url
   KeyWord:
   - - jd_wxTeam_url
-  Name: 组队瓜分奖品（超级无线/超级会员）
+  Name: 【Faker】组队瓜分奖品（超级无线/超级会员）
   Script: jd_wxTeam.js
   TimeOut: 0
   Wait: 2
@@ -755,7 +749,7 @@ js_config:
   Env: jd_shop_member
   KeyWord:
   - - jd_shop_member
-  Name: 让福袋飞（超级无线）
+  Name: 【Faker】让福袋飞（超级无线）
   Script: jd_wxUnPackingActivity.js
   TimeOut: 0
   Wait: 2
@@ -764,7 +758,7 @@ js_config:
   Env: jd_wxgame_activityId
   KeyWord:
   - - jd_wxgame_activityId
-  Name: 无线游戏（超级无线）
+  Name: 【Faker】无线游戏（超级无线）
   Script: jd_wxgame.js
   TimeOut: 0
   Wait: 2
@@ -773,7 +767,7 @@ js_config:
   Env: jd_pointExgECard_activityUrl
   KeyWord:
   - - jd_pointExgECard_activityUrl
-  Name: 积分兑换E卡（超级会员）
+  Name: 【Faker】积分兑换E卡（超级会员）
   Script: jd_pointExgECard.js
   TimeOut: 0
   Wait: 2
@@ -782,7 +776,7 @@ js_config:
   Env: jd_lzkj_invite_url
   KeyWord:
   - - jd_lzkj_invite_url
-  Name: 邀请好友入会（超级无线）
+  Name: 【Faker】邀请好友入会（超级无线）
   Script: jd_lzkj_invite.js
   TimeOut: 0
   Wait: 2
@@ -791,7 +785,7 @@ js_config:
   Env: jd_lzkj_share_url
   KeyWord:
   - - jd_lzkj_share_url
-  Name: 分享有礼（超级无线）
+  Name: 【Faker】分享有礼（超级无线）
   Script: jd_lzkj_share.js
   TimeOut: 0
   Wait: 2
@@ -801,7 +795,7 @@ js_config:
   KeyWord:
   - - jd_lzkj_v2_cart_url
   - - jd_lzkj_v2_cart_forbiddenQuit
-  Name: 加购有礼（超级无线V2）
+  Name: 【Faker】加购有礼（超级无线V2）
   Script: jd_lzkj_v2_cart.js
   TimeOut: 0
   Wait: 2
@@ -810,7 +804,7 @@ js_config:
   Env: jd_wx_zeroTrial_url
   KeyWord:
   - - jd_wx_zeroTrial_url
-  Name: 0元试用（超级会员）
+  Name: 【Faker】0元试用（超级会员）
   Script: jd_wx_zeroTrial.js
   TimeOut: 0
   Wait: 2
@@ -820,7 +814,7 @@ js_config:
   KeyWord:
   - - jd_wx_shopSign_activityUrl
   - - jd_wx_shopSign_joinMember
-  Name: 店铺签到监控（超级无线/超级会员）
+  Name: 【Faker】店铺签到监控（超级无线/超级会员）
   Script: jd_wx_shopSign.js
   TimeOut: 0
   Wait: 2
