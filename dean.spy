@@ -1,3 +1,4 @@
+js_config:
 - Container:
   - []
   Env: VENDER_ID
